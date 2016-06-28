@@ -1,17 +1,17 @@
 #Desc 
   
-##a simple text editor. 
+a simple text editor. 
 
 
 
 #Compile and Run
   
-##qmake  
-##make  
-##./text_editor  
+qmake  
+make  
+./text_editor  
 
   
 #Email
-##545751287@qq.com
+545751287@qq.com
 
 
