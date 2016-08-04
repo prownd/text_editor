@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>actions/document-new.png</file>
+        <file>actions/document-open.png</file>
+        <file>actions/document-save.png</file>
+        <file>actions/document-save-as.png</file>
+        <file>actions/edit-copy.png</file>
+        <file>actions/edit-delete.png</file>
+        <file>actions/edit-find.png</file>
+        <file>actions/edit-paste.png</file>
+        <file>actions/edit-select-all.png</file>
+        <file>actions/editcut.png</file>
+        <file>actions/edit-undo.png</file>
+        <file>actions/help-about.png</file>
+        <file>actions/gtk-cancel.png</file>
+        <file>actions/exit.png</file>
+    </qresource>
+</RCC>
