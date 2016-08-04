@@ -43,6 +43,10 @@ void editor::on_actionOpen_triggered()
     QTextStream qfs(&qf);
     qf.open(QFile::ReadOnly);
     ui->textEdit->setText(qfs.readAll());
+    
+    curFile=qf.fileName();
+    setWindowTitle(curFile);
+
     qf.close();;
 
 }
